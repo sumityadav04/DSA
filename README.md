@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sumityadav04/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sumityadav04/DSA/tree/master/0015-3sum) |
 | [0860-lemonade-change](https://github.com/sumityadav04/DSA/tree/master/0860-lemonade-change) |
 ## Greedy
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sumityadav04/DSA/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sumityadav04/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
