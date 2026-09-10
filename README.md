@@ -14,6 +14,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumityadav04/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sumityadav04/DSA/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
@@ -44,4 +45,20 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumityadav04/DSA/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumityadav04/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumityadav04/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumityadav04/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumityadav04/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
