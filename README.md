@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/sumityadav04/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sumityadav04/DSA/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/sumityadav04/DSA/tree/master/0045-jump-game-ii) |
 | [0860-lemonade-change](https://github.com/sumityadav04/DSA/tree/master/0860-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sumityadav04/DSA/tree/master/0045-jump-game-ii) |
 | [0860-lemonade-change](https://github.com/sumityadav04/DSA/tree/master/0860-lemonade-change) |
 ## Linked List
 |  |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sumityadav04/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/sumityadav04/DSA/tree/master/0045-jump-game-ii) |
 ## Manacher
 |  |
 | ------- |
