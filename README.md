@@ -43,6 +43,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sumityadav04/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sumityadav04/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sumityadav04/DSA/tree/master/0020-valid-parentheses) |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumityadav04/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +97,36 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumityadav04/DSA/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
+## Z Algorithm
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/sumityadav04/DSA/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
